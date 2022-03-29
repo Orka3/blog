@@ -33,6 +33,7 @@
     <div class="fullpage bg-black">
       <Category />
     </div>
+    <div><Footer /></div>
   </div>
 </template>
 
