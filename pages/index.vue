@@ -53,14 +53,6 @@ export default {
   width: 100vw;
   background-color: black;
 }
-.whale2img {
-  margin-left: 55%;
-  margin-top: 1vh;
-}
-.planetimg {
-  height: 100px;
-  width: 100px;
-}
 .bottom {
   display: flex;
   flex-direction: column;
