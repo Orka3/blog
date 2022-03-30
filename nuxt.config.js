@@ -1,5 +1,8 @@
 export default {
-  // Target: https://go.nuxtjs.dev/config-target
+  // Target: https://go.nuxtjs.dev/config-target'
+  generate: {
+    dir: 'docs'
+  },
   target: 'static',
   router: {
     base: '/Orka3.github.io/'
