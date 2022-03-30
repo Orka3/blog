@@ -1,11 +1,8 @@
 export default {
-  // Target: https://go.nuxtjs.dev/config-target'
-  generate: {
-    dir: 'docs'
-  },
+  // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/Orka3.github.io/'
+    base: '/blog/'
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
