@@ -6,7 +6,7 @@
       style="height: 30vh; width: 100vw"
     >
       <img
-        src="assets/resources/Whale2.jpg"
+        :src="require(assets / resources / Whale2.jpg)"
         class="whale2img"
         style="height: 29vh; width: 200px"
       />
