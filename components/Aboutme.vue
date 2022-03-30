@@ -17,7 +17,7 @@
       <div data-aos="fade-in">
         <div class="imagecenter">
           <img
-            src="assets/resources/Whale1.jpg"
+            :src="require('assets/resources/Whale1.jpg')"
             style="height: 500px; width: 800px"
           />
         </div>
