@@ -15,7 +15,7 @@
           <div class="center">
             <p2> memoir</p2>
             <img
-              src="assets/resources/Moon.png"
+              src="assets/resources/Moon.PNG"
               class="border border-black hover:border-indigo-300 rounded-full"
               style="height: 150px"
             />
@@ -27,7 +27,7 @@
               class="text-gray-700 text-sm font-semibold"
             >
               <img
-                src="assets/resources/Earth.png"
+                src="assets/resources/Earth.PNG"
                 class="border border-black hover:border-indigo-300 rounded-full"
                 style="height: 230px"
             /></nuxt-link>
@@ -35,7 +35,7 @@
           <div class="center">
             <p2> project</p2>
             <img
-              src="assets/resources/Planet.png"
+              src="assets/resources/Planet.PNG"
               class="border border-black hover:border-indigo-300 rounded-full"
               style="height: 180px"
             />
