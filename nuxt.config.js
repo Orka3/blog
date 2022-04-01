@@ -39,9 +39,7 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ['nuxt-content-git',
-    // https://go.nuxtjs.dev/content
-    '@nuxt/content',
+  modules: [
   ],
 
 
